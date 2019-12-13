@@ -1,0 +1,14 @@
+en:
+  errors:
+    jsonapi_form:
+      invalid_type: invalid type in jsonapi spec
+      resource_type:
+        invalid: expected to be a %{valid_type}
+      invalid_relation_type: has invalid value
+ru:
+  errors:
+    jsonapi_form:
+      invalid_type: имеет неверный тип в спецификации jsonapi
+      resource_type:
+        invalid: ожидается тип %{valid_type}
+      invalid_relation_type: имеет неверное значение
